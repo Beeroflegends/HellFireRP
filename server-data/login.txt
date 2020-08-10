@@ -1,0 +1,1 @@
+D:\Users\Chris\Downloads\RandyServer\server\FXServer.exe +exec server.cfg
